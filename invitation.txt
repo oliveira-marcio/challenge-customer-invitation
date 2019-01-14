@@ -1,0 +1,20 @@
+Customers in 100 km radius from Dublin Office
+------------------------------------------------------------
+04) Ian Kehoe
+05) Nora Dempsey
+06) Theresa Enright
+08) Eoin Ahearn
+11) Richard Finnegan
+12) Christina McArdle
+13) Olive Ahearn
+15) Michael Ahearn
+17) Patricia Cahill
+23) Eoin Gallagher
+24) Rose Enright
+26) Stephen McArdle
+29) Oliver Ahearn
+30) Nick Enright
+31) Alan Behan
+39) Lisa Ahearn
+
+16 customers found.
